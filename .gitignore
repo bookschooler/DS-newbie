@@ -1,0 +1,14 @@
+.DS_Store
+planning/
+.env
+__pycache__
+.ipynb_checkpoints
+.cursor/
+.vscode/
+.claude/
+.netlify/
+CLAUDE.md
+.smart-env/
+.obsidian/
+index.html
+
