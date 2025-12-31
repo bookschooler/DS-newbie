@@ -20,7 +20,7 @@ pyproject.toml
 requirements.txt
 uv.lock
 week1/grammar_plan.md
-week1/Day2_0_함수_디자인_패턴_Functions.ipynb
+# week1/Day2_0_함수_디자인_패턴_Functions.ipynb
 week1/Day2_1_Python_문법1.ipynb
 week1/Day2_2_이터레이터와_제너레이터_정답.ipynb
 week1/Day2_2_이터레이터와_제너레이터.ipynb
@@ -44,7 +44,7 @@ week1/Day3_3_종합_실습_로그_분석_자동화_봇_정답.ipynb
 # week1/Day1_3_문자열과_정밀한_수치_연산_정답.ipynb
 week1/hello.py
 week1/Day2_1_이터레이터와_제너레이터_정답.ipynb
-week1/Day2_1_이터레이터와_제너레이터.ipynb
+# week1/Day2_1_이터레이터와_제너레이터.ipynb
 week1/Day2_2_파일_IO와_직렬화_정답.ipynb
 week1/Day2_2_파일_IO와_직렬화.ipynb
 week1/Day2_3_모듈화와_패키지_구조_Modules_정답.ipynb
