@@ -22,12 +22,12 @@ uv.lock
 week1/grammar_plan.md
 # week1/Day2_0_함수_디자인_패턴_Functions.ipynb
 week1/Day2_1_Python_문법1.ipynb
-week1/Day2_2_이터레이터와_제너레이터_정답.ipynb
-week1/Day2_2_이터레이터와_제너레이터.ipynb
+# week1/Day2_2_이터레이터와_제너레이터_정답.ipynb
+# week1/Day2_2_이터레이터와_제너레이터.ipynb
 week1/Day2_3_파일_IO와_직렬화_정답.ipynb
 week1/Day2_3_파일_IO와_직렬화.ipynb
 week1/Day2_4_모듈화와_패키지_구조_Modules.ipynb
-week1/Day2_0_함수_디자인_패턴_Functions_정답.ipynb
+# week1/Day2_0_함수_디자인_패턴_Functions_정답.ipynb
 week1/Day2_4_모듈화와_패키지_구조_Modules_정답.ipynb
 week1/Day3_0_객체_지향_프로그래밍_OOP_기초_정답.ipynb
 week1/Day3_0_객체_지향_프로그래밍_OOP_기초.ipynb
@@ -49,3 +49,5 @@ week1/Day2_2_파일_IO와_직렬화_정답.ipynb
 # week1/Day2_2_파일_IO와_직렬화.ipynb
 week1/Day2_3_모듈화와_패키지_구조_Modules_정답.ipynb
 week1/Day2_3_모듈화와_패키지_구조_Modules.ipynb
+week1/mymath.py
+week1/calculator.py
