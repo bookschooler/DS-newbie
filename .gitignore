@@ -59,11 +59,12 @@ week1/user.json
 week1/users.json
 week1/analysis_state.pkl
 week1/data.pkl
-week1/Day3_0_별첨_다중상속_Multiple_Inheritance_정답.ipynb
-week1/Day3_0_별첨_데이터클래스_Dataclass_정답.ipynb
+# week1/Day3_0_별첨_다중상속_Multiple_Inheritance_정답.ipynb
+# week1/Day3_0_별첨_데이터클래스_Dataclass_정답.ipynb
 week1/Day1_1_별첨_집합_자료형_Set_정답.ipynb
-week1/Day3_1_예외_처리와_디버깅_Exceptions.backup.ipynb
+# week1/Day3_1_예외_처리와_디버깅_Exceptions.backup.ipynb
 week2/
-week1/Day3_0_별첨_다중상속_Multiple_Inheritance.ipynb
-week1/Day3_0_별첨_데이터클래스_Dataclass.ipynb
+# week1/Day3_0_별첨_다중상속_Multiple_Inheritance.ipynb
+# week1/Day3_0_별첨_데이터클래스_Dataclass.ipynb
 week1/test_nb_creation.json
+week1/data_processor.py
