@@ -21,16 +21,16 @@ requirements.txt
 uv.lock
 week1/grammar_plan.md
 # week1/Day2_0_함수_디자인_패턴_Functions.ipynb
-week1/Day2_1_Python_문법1.ipynb
+# week1/Day2_1_Python_문법1.ipynb
 # week1/Day2_2_이터레이터와_제너레이터_정답.ipynb
 # week1/Day2_2_이터레이터와_제너레이터.ipynb
-week1/Day2_3_파일_IO와_직렬화_정답.ipynb
-week1/Day2_3_파일_IO와_직렬화.ipynb
-week1/Day2_4_모듈화와_패키지_구조_Modules.ipynb
+# week1/Day2_3_파일_IO와_직렬화_정답.ipynb
+# week1/Day2_3_파일_IO와_직렬화.ipynb
+# week1/Day2_4_모듈화와_패키지_구조_Modules.ipynb
 # week1/Day2_0_함수_디자인_패턴_Functions_정답.ipynb
-week1/Day2_4_모듈화와_패키지_구조_Modules_정답.ipynb
+# week1/Day2_4_모듈화와_패키지_구조_Modules_정답.ipynb
 week1/Day3_0_객체_지향_프로그래밍_OOP_기초_정답.ipynb
-week1/Day3_0_객체_지향_프로그래밍_OOP_기초.ipynb
+# week1/Day3_0_객체_지향_프로그래밍_OOP_기초.ipynb
 week1/Day3_1_예외_처리와_디버깅_Exceptions.ipynb
 week1/Day3_2_분석가를_위한_표준_라이브러리_II.ipynb
 week1/Day3_3_종합_실습_로그_분석_자동화_봇.ipynb
@@ -48,6 +48,22 @@ week1/Day2_1_이터레이터와_제너레이터_정답.ipynb
 week1/Day2_2_파일_IO와_직렬화_정답.ipynb
 # week1/Day2_2_파일_IO와_직렬화.ipynb
 week1/Day2_3_모듈화와_패키지_구조_Modules_정답.ipynb
-week1/Day2_3_모듈화와_패키지_구조_Modules.ipynb
+# week1/Day2_3_모듈화와_패키지_구조_Modules.ipynb
 week1/mymath.py
 week1/calculator.py
+week1/destination.txt
+week1/fruits.txt
+week1/sample.txt
+week1/source.txt
+week1/user.json
+week1/users.json
+week1/analysis_state.pkl
+week1/data.pkl
+week1/Day3_0_별첨_다중상속_Multiple_Inheritance_정답.ipynb
+week1/Day3_0_별첨_데이터클래스_Dataclass_정답.ipynb
+week1/Day1_1_별첨_집합_자료형_Set_정답.ipynb
+week1/Day3_1_예외_처리와_디버깅_Exceptions.backup.ipynb
+week2/
+week1/Day3_0_별첨_다중상속_Multiple_Inheritance.ipynb
+week1/Day3_0_별첨_데이터클래스_Dataclass.ipynb
+week1/test_nb_creation.json
