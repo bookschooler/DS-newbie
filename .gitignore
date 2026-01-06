@@ -16,6 +16,7 @@ consulting/
 pyproject.toml
 requirements.txt
 uv.lock
+videos/
 
 # week1/Day3_1_예외_처리와_디버깅_Exceptions.ipynb
 # week1/Day3_2_분석가를_위한_표준_라이브러리_II.ipynb
@@ -38,9 +39,9 @@ week1/*.md
 week3/
 week4/
 week5/
-week2/Day4_0_NumPy_핵심만_배열과_벡터화_정답.ipynb
-week2/Day4_1_pandas_기초_DataFrame_정답.ipynb
-week2/Day4_2_Plotly_Express_기초_Interactive_Visualization_정답.ipynb
+# week2/Day4_0_NumPy_핵심만_배열과_벡터화_정답.ipynb
+# week2/Day4_1_pandas_기초_DataFrame_정답.ipynb
+# week2/Day4_2_Plotly_Express_기초_Interactive_Visualization_정답.ipynb
 week2/Day5_0_결측치_처리_Missing_Data_정답.ipynb
 week2/Day5_0_결측치_처리_Missing_Data.ipynb
 week2/Day5_1_이상치_및_데이터_정제_Outliers_Cleaning_정답.ipynb
