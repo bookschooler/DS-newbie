@@ -48,18 +48,18 @@ week5/
 # week2/Day5_1_이상치_및_데이터_정제_Outliers_Cleaning.ipynb
 # week2/Day5_2_실습_프로젝트_더러운_전자상거래_데이터_정제_정답.ipynb
 # week2/Day5_2_실습_프로젝트_더러운_전자상거래_데이터_정제.ipynb
-week2/Day6_0_pandas_고급_조작_groupby_pivot_merge_정답.ipynb
+# week2/Day6_0_pandas_고급_조작_groupby_pivot_merge_정답.ipynb
 # week2/Day6_0_pandas_고급_조작_groupby_pivot_merge.ipynb
-week2/Day6_1_Plotly_Graph_Objects_고급_시각화_정답.ipynb
+# week2/Day6_1_Plotly_Graph_Objects_고급_시각화_정답.ipynb
 # week2/Day6_1_Plotly_Graph_Objects_고급_시각화.ipynb
-week2/Day6_2_SQL_연동_간단히_pandas_SQLAlchemy_정답.ipynb
+# week2/Day6_2_SQL_연동_간단히_pandas_SQLAlchemy_정답.ipynb
 # week2/Day6_2_SQL_연동_간단히_pandas_SQLAlchemy.ipynb
-week2/Day6_3_통합_실습_다중_소스_데이터_분석_정답.ipynb
+# week2/Day6_3_통합_실습_다중_소스_데이터_분석_정답.ipynb
 # week2/Day6_3_통합_실습_다중_소스_데이터_분석.ipynb
-week2/Day7_0_정적_스크래이핑_BeautifulSoup_정답.ipynb
-week2/Day7_0_정적_스크래이핑_BeautifulSoup.ipynb
-week2/Day7_1_동적_스크레이핑_Selenium_WebDriver_정답.ipynb
-week2/Day7_1_동적_스크레이핑_Selenium_WebDriver.ipynb
+# week2/Day7_0_정적_스크래이핑_BeautifulSoup_정답.ipynb
+# week2/Day7_0_정적_스크래이핑_BeautifulSoup.ipynb
+# week2/Day7_1_동적_스크레이핑_Selenium_WebDriver_정답.ipynb
+# week2/Day7_1_동적_스크레이핑_Selenium_WebDriver.ipynb
 week2/datasets/dirty_ecommerce_data.csv
 week2/datasets/generate_dirty_ecommerce_data.py
 week2/ref/pandas_tutorial.md
@@ -79,3 +79,5 @@ week2/ref/plotly/Python Plotly Subject.ipynb
 week2/Day5_별첨_Supabase_Python_연동_정답.ipynb
 week2/Day6_2_SQL_연동_pandas_SQLAlchemy_정답.ipynb
 week2/Day6_2_SQL_연동_pandas_SQLAlchemy.ipynb
+week2/Day7_별첨_Apify_스크레이핑.ipynb
+week2/Day7_별첨_firecrawl_스크레이핑.ipynb
