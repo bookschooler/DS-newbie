@@ -17,13 +17,8 @@ pyproject.toml
 requirements.txt
 uv.lock
 videos/
+.history/
 
-# week1/Day3_1_예외_처리와_디버깅_Exceptions.ipynb
-# week1/Day3_2_분석가를_위한_표준_라이브러리_II.ipynb
-# week1/Day3_3_종합_실습_로그_분석_자동화_봇.ipynb
-# week1/Day3_1_예외_처리와_디버깅_Exceptions_정답.ipynb
-# week1/Day3_2_분석가를_위한_표준_라이브러리_II_정답.ipynb
-# week1/Day3_3_종합_실습_로그_분석_자동화_봇_정답.ipynb
 
 week1/datasets/
 week1/scripts/
@@ -34,55 +29,36 @@ week1/*.pkl
 week1/*.log
 week1/*.md
 
-# week2/
+week2/ref
+week2/datasets
 
-week3/
 week4/
 week5/
-# week2/Day4_0_NumPy_핵심만_배열과_벡터화_정답.ipynb
-# week2/Day4_1_pandas_기초_DataFrame_정답.ipynb
-# week2/Day4_2_Plotly_Express_기초_Interactive_Visualization_정답.ipynb
-# week2/Day5_0_결측치_처리_Missing_Data_정답.ipynb
-# week2/Day5_0_결측치_처리_Missing_Data.ipynb
-# week2/Day5_1_이상치_및_데이터_정제_Outliers_Cleaning_정답.ipynb
-# week2/Day5_1_이상치_및_데이터_정제_Outliers_Cleaning.ipynb
-# week2/Day5_2_실습_프로젝트_더러운_전자상거래_데이터_정제_정답.ipynb
-# week2/Day5_2_실습_프로젝트_더러운_전자상거래_데이터_정제.ipynb
-# week2/Day6_0_pandas_고급_조작_groupby_pivot_merge_정답.ipynb
-# week2/Day6_0_pandas_고급_조작_groupby_pivot_merge.ipynb
-# week2/Day6_1_Plotly_Graph_Objects_고급_시각화_정답.ipynb
-# week2/Day6_1_Plotly_Graph_Objects_고급_시각화.ipynb
-# week2/Day6_2_SQL_연동_간단히_pandas_SQLAlchemy_정답.ipynb
-# week2/Day6_2_SQL_연동_간단히_pandas_SQLAlchemy.ipynb
-# week2/Day6_3_통합_실습_다중_소스_데이터_분석_정답.ipynb
-# week2/Day6_3_통합_실습_다중_소스_데이터_분석.ipynb
-# week2/Day7_0_정적_스크래이핑_BeautifulSoup_정답.ipynb
-# week2/Day7_0_정적_스크래이핑_BeautifulSoup.ipynb
-# week2/Day7_1_동적_스크레이핑_Selenium_WebDriver_정답.ipynb
-# week2/Day7_1_동적_스크레이핑_Selenium_WebDriver.ipynb
-week2/datasets/dirty_ecommerce_data.csv
-week2/datasets/generate_dirty_ecommerce_data.py
-week2/ref/pandas_tutorial.md
-week2/ref/pydantic_tutorial.md
-week2/ref/crawl/dynamic_crawling.ipynb
-week2/ref/crawl/selenium.ipynb
-week2/ref/database/.env.example
-week2/ref/database/init_embeddings.sql
-week2/ref/database/SQLAlchemy_with_PostgreSQL_practice.ipynb
-week2/ref/database/SQLAlchemy_with_PostgreSQL.ipynb
-week2/ref/database/supabase_sdk.ipynb
-week2/ref/plotly/app.py
-week2/ref/plotly/Python Dash App.ipynb
-week2/ref/plotly/Python Plotly Practice.ipynb
-week2/ref/plotly/Python Plotly Subject_AnswerSheet.ipynb
-week2/ref/plotly/Python Plotly Subject.ipynb
-week2/Day5_별첨_Supabase_Python_연동_정답.ipynb
-# week2/Day6_2_SQL_연동_pandas_SQLAlchemy_정답.ipynb
-# week2/Day6_2_SQL_연동_pandas_SQLAlchemy.ipynb
+
 week2/Day7_별첨_Apify_스크레이핑.ipynb
 week2/Day7_별첨_firecrawl_스크레이핑.ipynb
-
-# Antigravity Server
-.antigravity-server/
-
-sophie/statrack2_bigquery.json
+statrack2-bigquery.json
+week3/Day9_0_확률_분포_Probability_Distributions_정답.ipynb
+week3/Day9_0_확률_분포_Probability_Distributions.ipynb
+week3/Day9_1_가설_검정_Hypothesis_Testing_정답.ipynb
+week3/Day9_1_가설_검정_Hypothesis_Testing.ipynb
+week3/Day9_2_회귀분석_기초_Regression_Basics_정답.ipynb
+week3/Day9_2_회귀분석_기초_Regression_Basics.ipynb
+week3/Day9_3_통계_종합_실습_Statistics_Comprehensive_Practice_정답.ipynb
+week3/Day9_3_통계_종합_실습_Statistics_Comprehensive_Practice.ipynb
+week3/Day9_4_통계_이론_기초_Statistical_Theory_Fundamentals.ipynb
+week3/Day10_0_AB테스트_이론_AB_Test_Theory_정답.ipynb
+week3/Day10_0_AB테스트_이론_AB_Test_Theory.ipynb
+week3/Day10_1_AB_테스트_분석_AB_Test_Analysis_정답.ipynb
+week3/Day10_1_AB_테스트_분석_AB_Test_Analysis.ipynb
+week3/Day10_2_AB테스트_실전_프로젝트_Practical_Project_정답.ipynb
+week3/Day10_2_AB테스트_실전_프로젝트_Practical_Project.ipynb
+week3/Day11_0_텍스트_전처리_Text_Preprocessing_정답.ipynb
+week3/Day11_0_텍스트_전처리_Text_Preprocessing.ipynb
+week3/Day11_1_텍스트_분석_기법_Text_Analysis_Techniques_정답.ipynb
+week3/Day11_1_텍스트_분석_기법_Text_Analysis_Techniques.ipynb
+week3/Day11_2_감성_분석_Sentiment_Analysis_정답.ipynb
+week3/Day11_2_감성_분석_Sentiment_Analysis.ipynb
+week3/Day11_3_텍스트_마이닝_종합_프로젝트_Text_Mining_Project_정답.ipynb
+week3/Day11_3_텍스트_마이닝_종합_프로젝트_Text_Mining_Project.ipynb
+week3/datasets/
