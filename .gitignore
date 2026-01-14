@@ -18,6 +18,7 @@ requirements.txt
 uv.lock
 videos/
 .history/
+.pytest_cache/
 
 
 week1/datasets/
@@ -31,6 +32,8 @@ week1/*.md
 
 week2/ref
 week2/datasets
+
+week3/scripts/
 
 week4/
 week5/
@@ -62,6 +65,5 @@ week3/Day11_2_감성_분석_Sentiment_Analysis_정답.ipynb
 week3/Day11_2_감성_분석_Sentiment_Analysis.ipynb
 week3/Day11_3_텍스트_마이닝_종합_프로젝트_Text_Mining_Project_정답.ipynb
 week3/Day11_3_텍스트_마이닝_종합_프로젝트_Text_Mining_Project.ipynb
-week3/datasets/
 
 week3/Day10_0_별첨_고급_AB테스트_주제_Advanced_AB_Test_Topics.ipynb
