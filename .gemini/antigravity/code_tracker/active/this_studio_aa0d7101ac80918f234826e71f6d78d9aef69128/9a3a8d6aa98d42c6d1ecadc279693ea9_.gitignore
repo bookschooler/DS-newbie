@@ -1,0 +1,59 @@
+�	.DS_Store
+planning/
+.env
+__pycache__
+.ipynb_checkpoints
+.cursor/
+.vscode/
+.claude/
+.netlify/
+CLAUDE.md
+.smart-env/
+.obsidian/
+index.html
+consulting/
+.python-version
+pyproject.toml
+requirements.txt
+uv.lock
+videos/
+.history/
+.pytest_cache/
+
+
+week1/datasets/
+week1/scripts/
+week1/*.py
+week1/*.json
+week1/*.txt
+week1/*.pkl
+week1/*.log
+week1/*.md
+
+week2/ref
+week2/datasets
+
+week3/scripts/
+
+# week4/
+week5/
+
+week2/Day7_별첨_Apify_스크레이핑.ipynb
+week2/Day7_별첨_firecrawl_스크레이핑.ipynb
+statrack2-bigquery.json
+
+week4/Day13_0_회귀_모델_Regression_Models_정답.ipynb
+week4/Day13_0_회귀_모델_Regression_Models.ipynb
+week4/Day13_1_분류_모델_Classification_Models_정답.ipynb
+week4/Day13_1_분류_모델_Classification_Models.ipynb
+week4/Day14_0_군집화_Clustering_정답.ipynb
+week4/Day14_0_군집화_Clustering.ipynb
+week4/Day14_1_차원_축소_Dimensionality_Reduction_정답.ipynb
+week4/Day14_1_차원_축소_Dimensionality_Reduction.ipynb
+week4/Day15_0_앙상블_AutoML_Ensemble_AutoML_정답.ipynb
+week4/Day15_0_앙상블_AutoML_Ensemble_AutoML.ipynb
+week4/Day15_1_ML_종합_프로젝트_Comprehensive_Project_정답.ipynb
+week4/Day15_1_ML_종합_프로젝트_Comprehensive_Project.ipynb
+selector.html
+.antigravity-server/
+�	"(aa0d7101ac80918f234826e71f6d78d9aef6912820file:///teamspace/studios/this_studio/.gitignore:%file:///teamspace/studios/this_studio
