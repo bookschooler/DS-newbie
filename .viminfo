@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1767839518,,"wq"
+|2,0,1768370563,,"wq"
 :ㅈㅂ
-|2,0,1767839515,,"ㅈㅂ"
+|2,0,1768370560,,"ㅈㅂ"
 :qa
 |2,0,1767494439,,"qa"
 :Qa
@@ -54,28 +54,46 @@
 # File marks:
 'I  7  0  ~/.git/COMMIT_EDITMSG
 |4,73,7,0,1767443669,"~/.git/COMMIT_EDITMSG"
-'0  6  12  ~/.git/MERGE_MSG
-|4,48,6,12,1767839518,"~/.git/MERGE_MSG"
-'1  6  0  ~/.git/MERGE_MSG
-|4,49,6,0,1767831109,"~/.git/MERGE_MSG"
+'0  5  50  ~/.git/MERGE_MSG
+|4,48,5,50,1768452139,"~/.git/MERGE_MSG"
+'1  6  12  ~/.git/MERGE_MSG
+|4,49,6,12,1768370563,"~/.git/MERGE_MSG"
 '2  6  12  ~/.git/MERGE_MSG
-|4,50,6,12,1767769367,"~/.git/MERGE_MSG"
+|4,50,6,12,1768370563,"~/.git/MERGE_MSG"
 '3  6  12  ~/.git/MERGE_MSG
-|4,51,6,12,1767769367,"~/.git/MERGE_MSG"
+|4,51,6,12,1768360176,"~/.git/MERGE_MSG"
 '4  6  12  ~/.git/MERGE_MSG
-|4,52,6,12,1767760027,"~/.git/MERGE_MSG"
-'5  6  12  ~/.git/MERGE_MSG
-|4,53,6,12,1767760027,"~/.git/MERGE_MSG"
-'6  6  12  ~/.git/MERGE_MSG
-|4,54,6,12,1767760027,"~/.git/MERGE_MSG"
-'7  6  12  ~/.git/MERGE_MSG
-|4,55,6,12,1767760027,"~/.git/MERGE_MSG"
-'8  23  0  ~/collector.py
-|4,56,23,0,1767700024,"~/collector.py"
-'9  6  11  ~/.git/MERGE_MSG
-|4,57,6,11,1767494439,"~/.git/MERGE_MSG"
+|4,52,6,12,1768360176,"~/.git/MERGE_MSG"
+'5  1  0  ~/.git/MERGE_MSG
+|4,53,1,0,1768279075,"~/.git/MERGE_MSG"
+'6  1  0  ~/.git/MERGE_MSG
+|4,54,1,0,1768279075,"~/.git/MERGE_MSG"
+'7  1  0  ~/.git/MERGE_MSG
+|4,55,1,0,1768279075,"~/.git/MERGE_MSG"
+'8  1  0  ~/.git/MERGE_MSG
+|4,56,1,0,1768279075,"~/.git/MERGE_MSG"
+'9  1  0  ~/.git/MERGE_MSG
+|4,57,1,0,1768279075,"~/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  5  50  ~/.git/MERGE_MSG
+|4,39,5,50,1768452139,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1768451781,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1768370563,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1768370563,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1768370187,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1768360176,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1768360143,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1768279075,"~/.git/MERGE_MSG"
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1767839518,"~/.git/MERGE_MSG"
 -'  6  12  ~/.git/MERGE_MSG
 |4,39,6,12,1767839518,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
@@ -124,172 +142,155 @@
 |4,39,23,0,1767700024,"~/collector.py"
 -'  23  0  ~/collector.py
 |4,39,23,0,1767700024,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  1  0  ~/collector.py
-|4,39,1,0,1767688277,"~/collector.py"
--'  6  11  ~/.git/MERGE_MSG
-|4,39,6,11,1767494439,"~/.git/MERGE_MSG"
--'  6  11  ~/.git/MERGE_MSG
-|4,39,6,11,1767494439,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1767494385,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1767494385,"~/.git/MERGE_MSG"
--'  5  0  ~/.git/MERGE_MSG
-|4,39,5,0,1767460419,"~/.git/MERGE_MSG"
--'  4  0  ~/.git/MERGE_MSG
-|4,39,4,0,1767460419,"~/.git/MERGE_MSG"
--'  4  0  ~/.git/MERGE_MSG
-|4,39,4,0,1767460419,"~/.git/MERGE_MSG"
--'  4  0  ~/.git/MERGE_MSG
-|4,39,4,0,1767460419,"~/.git/MERGE_MSG"
--'  4  0  ~/.git/MERGE_MSG
-|4,39,4,0,1767460419,"~/.git/MERGE_MSG"
--'  4  0  ~/.git/MERGE_MSG
-|4,39,4,0,1767460419,"~/.git/MERGE_MSG"
--'  4  0  ~/.git/MERGE_MSG
-|4,39,4,0,1767460419,"~/.git/MERGE_MSG"
--'  4  0  ~/.git/MERGE_MSG
-|4,39,4,0,1767460419,"~/.git/MERGE_MSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
--'  7  0  ~/.git/COMMIT_EDITMSG
-|4,39,7,0,1767443739,"~/.git/COMMIT_EDITMSG"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
+-'  23  0  ~/collector.py
+|4,39,23,0,1767700024,"~/collector.py"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/MERGE_MSG
-	*	1767839515	0
-	"	6	12
-	^	4	71
-	.	5	0
+	*	1768452008	0
+	"	5	50
+	^	5	50
+	.	4	6
 	+	5	72
 	+	5	0
 	+	5	81
 	+	5	73
 	+	1	1
 	+	5	0
+	+	4	6
 
 > ~/collector.py
 	*	1767689066	0

@@ -35,34 +35,24 @@ week2/datasets
 
 week3/scripts/
 
-week4/
+# week4/
 week5/
 
 week2/Day7_별첨_Apify_스크레이핑.ipynb
 week2/Day7_별첨_firecrawl_스크레이핑.ipynb
 statrack2-bigquery.json
-# week3/Day9_0_확률_분포_Probability_Distributions_정답.ipynb
-# week3/Day9_0_확률_분포_Probability_Distributions.ipynb
-# week3/Day9_1_가설_검정_Hypothesis_Testing_정답.ipynb
-# week3/Day9_1_가설_검정_Hypothesis_Testing.ipynb
-# week3/Day9_2_회귀분석_기초_Regression_Basics_정답.ipynb
-# week3/Day9_2_회귀분석_기초_Regression_Basics.ipynb
-# week3/Day9_3_통계_종합_실습_Statistics_Comprehensive_Practice_정답.ipynb
-# week3/Day9_3_통계_종합_실습_Statistics_Comprehensive_Practice.ipynb
-# week3/Day9_4_통계_이론_기초_Statistical_Theory_Fundamentals_정답.ipynb
-# week3/Day9_4_통계_이론_기초_Statistical_Theory_Fundamentals.ipynb
-# week3/Day10_0_AB테스트_이론_AB_Test_Theory_정답.ipynb
-# week3/Day10_0_AB테스트_이론_AB_Test_Theory.ipynb
-# week3/Day10_1_AB_테스트_분석_AB_Test_Analysis_정답.ipynb
-# week3/Day10_1_AB_테스트_분석_AB_Test_Analysis.ipynb
-# week3/Day10_2_AB테스트_실전_프로젝트_Practical_Project_정답.ipynb
-# week3/Day10_2_AB테스트_실전_프로젝트_Practical_Project.ipynb
-# week3/Day11_0_텍스트_전처리_Text_Preprocessing_정답.ipynb
-# week3/Day11_0_텍스트_전처리_Text_Preprocessing.ipynb
-# week3/Day11_1_텍스트_분석_기법_Text_Analysis_Techniques_정답.ipynb
-# week3/Day11_1_텍스트_분석_기법_Text_Analysis_Techniques.ipynb
-# week3/Day11_2_감성_분석_Sentiment_Analysis_정답.ipynb
-# week3/Day11_2_감성_분석_Sentiment_Analysis.ipynb
-# week3/Day11_3_텍스트_마이닝_종합_프로젝트_Text_Mining_Project_정답.ipynb
-# week3/Day11_3_텍스트_마이닝_종합_프로젝트_Text_Mining_Project.ipynb
 
+week4/Day13_0_회귀_모델_Regression_Models_정답.ipynb
+week4/Day13_0_회귀_모델_Regression_Models.ipynb
+week4/Day13_1_분류_모델_Classification_Models_정답.ipynb
+week4/Day13_1_분류_모델_Classification_Models.ipynb
+week4/Day14_0_군집화_Clustering_정답.ipynb
+week4/Day14_0_군집화_Clustering.ipynb
+week4/Day14_1_차원_축소_Dimensionality_Reduction_정답.ipynb
+week4/Day14_1_차원_축소_Dimensionality_Reduction.ipynb
+week4/Day15_0_앙상블_AutoML_Ensemble_AutoML_정답.ipynb
+week4/Day15_0_앙상블_AutoML_Ensemble_AutoML.ipynb
+week4/Day15_1_ML_종합_프로젝트_Comprehensive_Project_정답.ipynb
+week4/Day15_1_ML_종합_프로젝트_Comprehensive_Project.ipynb
+selector.html
+.antigravity-server/
