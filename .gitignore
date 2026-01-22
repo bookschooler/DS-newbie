@@ -59,3 +59,7 @@ selector.html
 # week4/Day13_0_별첨_SVR_Support_Vector_Regression.ipynb
 # week4/Day14_0_별첨_이상탐지_Anomaly_Detection_정답.ipynb
 # week4/Day14_0_별첨_이상탐지_Anomaly_Detection.ipynb
+week4/catboost_info/catboost_training.json
+week4/catboost_info/learn_error.tsv
+week4/catboost_info/time_left.tsv
+week4/catboost_info/learn/events.out.tfevents
