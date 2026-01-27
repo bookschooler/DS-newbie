@@ -75,10 +75,10 @@ week4/catboost_info/learn/events.out.tfevents
 week5/back_propagation.html
 week5/backpropagation_simple_example.png
 week5/backpropagation.png
-week5/Day17_0_CNN_합성곱_신경망_정답.ipynb
-week5/Day17_0_CNN_합성곱_신경망.ipynb
-week5/Day17_1_RNN_LSTM_GRU_시퀀스_모델링_정답.ipynb
-week5/Day17_1_RNN_LSTM_GRU_시퀀스_모델링.ipynb
+# week5/Day17_0_CNN_합성곱_신경망_정답.ipynb
+# week5/Day17_0_CNN_합성곱_신경망.ipynb
+# week5/Day17_1_RNN_LSTM_GRU_시퀀스_모델링_정답.ipynb
+# week5/Day17_1_RNN_LSTM_GRU_시퀀스_모델링.ipynb
 week5/Day18_0_별첨_Seq2Seq_Encoder_Decoder.ipynb
 week5/Day18_0_Transformer_어텐션_메커니즘_정답.ipynb
 week5/Day18_0_Transformer_어텐션_메커니즘.ipynb
@@ -91,3 +91,6 @@ week5/Day19_1_RAG_검색_증강_생성_정답.ipynb
 week5/Day19_1_RAG_검색_증강_생성.ipynb
 week5/Day19_2_최종_프로젝트_Deep_Learning.ipynb
 week5/workspace/
+week5/data/
+week5/model_weights.pth
+week5/full_model.pth
