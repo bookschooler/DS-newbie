@@ -1,0 +1,338 @@
+{
+  "네이버_경제": [
+    {
+      "title": "더 커진 집값 상승 기대…4년3개월 만에 '최고'",
+      "link": "https://n.news.naver.com/mnews/article/015/0005241094",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "강훈식 이끄는 방산특사단 … 내주 캐나다·노르웨이 간다",
+      "link": "https://n.news.naver.com/mnews/article/009/0005626520",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "현대차, EV 저금리 혜택 강화…테슬라·BYD '가성비 공세' 대응",
+      "link": "https://n.news.naver.com/mnews/article/001/0015863017",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "'이재용 장남' 이지호 소위, 해외 파견 떠난다…다국적 연합훈련 참가",
+      "link": "https://n.news.naver.com/mnews/article/088/0000993481",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "'받을 수 있을까?' 불안한 국민연금 '이것'이 바뀐다",
+      "link": "https://n.news.naver.com/mnews/article/057/0001931621",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "\"탈원전은 심각한 실수였다\"…독일 총리의 '뼈아픈 고백'",
+      "link": "https://n.news.naver.com/mnews/article/015/0005241552",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "국제 금값 사상 첫 4900달러 돌파…은·백금도 최고가 행진",
+      "link": "https://n.news.naver.com/mnews/article/654/0000163062",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "에어부산, 지난해 영업손실 45억…전년비 적자전환",
+      "link": "https://n.news.naver.com/mnews/article/015/0005241378",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "26일부터 대한항공·아시아나도 보조배터리 기내 사용 “전면 금지”",
+      "link": "https://n.news.naver.com/mnews/article/032/0003423379",
+      "source": "네이버뉴스",
+      "category": "경제"
+    },
+    {
+      "title": "한국딜로이트 신임 대표에 길기완",
+      "link": "https://n.news.naver.com/mnews/article/015/0005241508",
+      "source": "네이버뉴스",
+      "category": "경제"
+    }
+  ],
+  "네이버_IT": [
+    {
+      "title": "민주당 몫 방미통위 상임위원에 고민수 국립강릉원주대 교수",
+      "link": "https://n.news.naver.com/mnews/article/092/0002407450",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "국가대표AI 패자부활전 열렸지만…KT도 외면",
+      "link": "https://n.news.naver.com/mnews/article/011/0004582304",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "프라이버시 걱정 없는 자율주행이란?…개인정보위, 현장 간담회 개최",
+      "link": "https://n.news.naver.com/mnews/article/138/0002216031",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "방문신 방송협회장 “AI 학습 콘텐츠 보상 없인 방송 생태계 붕괴”",
+      "link": "https://n.news.naver.com/mnews/article/138/0002216049",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "GPT5 vs 제미나이3, 투자 승자는?…'AI 투자 대전' 나왔다",
+      "link": "https://n.news.naver.com/mnews/article/015/0005241135",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "새해 조직개편 키워드⋯'분권화' 네이버, '효율화' 카카오",
+      "link": "https://n.news.naver.com/mnews/article/031/0000999669",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "카카오게임즈, 신작 ‘슴미니즈’ 앞세워 글로벌 캐주얼 시장 공략 ‘시동’",
+      "link": "https://n.news.naver.com/mnews/article/009/0005626410",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "위메이드, 원화 스테이블코인 테크 세미나 개최",
+      "link": "https://n.news.naver.com/mnews/article/374/0000488342",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "\"아이폰17 타고 날았다\"... LGD·LG이노텍, 지난해 4분기 호실적 예고",
+      "link": "https://n.news.naver.com/mnews/article/030/0003392830",
+      "source": "네이버뉴스",
+      "category": "IT"
+    },
+    {
+      "title": "올해 출시 기대되는 애플 신제품 5가지",
+      "link": "https://n.news.naver.com/mnews/article/092/0002407485",
+      "source": "네이버뉴스",
+      "category": "IT"
+    }
+  ],
+  "네이버_세계": [
+    {
+      "title": "뉴욕 유가 2.9% 급등...미군 함대의 이란 이동에 영향",
+      "link": "https://n.news.naver.com/mnews/article/052/0002305186",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "러시아, 미·우크라와 3자협상 앞두고 \"돈바스 철군이 필수\"",
+      "link": "https://n.news.naver.com/mnews/article/018/0006206320",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "'건강이상설' 트럼프 손등 멍 사진 확산…\"탁자에 부딪혔다\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005241217",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "미국, 이란 석유 수출 돕는 선박·기업 제재…“자금 조달 핵심 요소 겨냥”",
+      "link": "https://n.news.naver.com/mnews/article/056/0012111620",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "유엔 로고 빼닮은 '트럼프의 평화위원회'…유엔 체제 흔드나",
+      "link": "https://n.news.naver.com/mnews/article/001/0015862752",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "“나토가 미국 지킬지 모르겠다”…트럼프, 동맹 조롱 이어가",
+      "link": "https://n.news.naver.com/mnews/article/025/0003498687",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "\"'사무직 구조조정' 아마존, 다음 주 대규모 추가 감원\"",
+      "link": "https://n.news.naver.com/mnews/article/055/0001326950",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "金총리 \"美부통령, '쿠팡문제' 양국간 오해없게 상호관리 요청\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0015864680",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "이란 \"강대국 10곳 정보기관이 반정부 시위 배후\"",
+      "link": "https://n.news.naver.com/mnews/article/079/0004108536",
+      "source": "네이버뉴스",
+      "category": "세계"
+    },
+    {
+      "title": "트럼프 “그린란드, 영구·전면적 접근권 확보 협상”",
+      "link": "https://n.news.naver.com/mnews/article/449/0000333124",
+      "source": "네이버뉴스",
+      "category": "세계"
+    }
+  ],
+  "Yahoo_finance": [
+    {
+      "title": "Entertainment",
+      "link": "https://www.yahoo.com/entertainment/",
+      "source": "Yahoo Finance",
+      "category": "finance"
+    },
+    {
+      "title": "Capital One Stock Is a Big Loser Today. But It Still Has Some Big Fans.",
+      "link": "https://finance.yahoo.com/news/capital-one-stock-big-loser-204743610.html",
+      "source": "Yahoo Finance",
+      "category": "finance"
+    },
+    {
+      "title": "Hyster-Yale Materials Handling, Limbach, Astec, American Woodmark, and Meritage Homes Stocks Trade Down, What You Need To Know",
+      "link": "https://finance.yahoo.com/news/hyster-yale-materials-handling-limbach-204550520.html",
+      "source": "Yahoo Finance",
+      "category": "finance"
+    },
+    {
+      "title": "Intel stock plunges as hopes for a 'clean' turnaround story meet reality",
+      "link": "https://finance.yahoo.com/news/intel-stock-plunges-as-hopes-for-a-clean-turnaround-story-meet-reality-202949131.html",
+      "source": "Yahoo Finance",
+      "category": "finance"
+    },
+    {
+      "title": "Leslie's, Boot Barn, Sally Beauty, Abercrombie and Fitch, and Victoria's Secret Stocks Trade Down, What You Need To Know",
+      "link": "https://finance.yahoo.com/news/leslies-boot-barn-sally-beauty-202545120.html",
+      "source": "Yahoo Finance",
+      "category": "finance"
+    },
+    {
+      "title": "Buy the Dip in Apple Stock Before January 29, According to Goldman Sachs",
+      "link": "https://finance.yahoo.com/news/buy-dip-apple-stock-january-202025128.html",
+      "source": "Yahoo Finance",
+      "category": "finance"
+    },
+    {
+      "title": "The U.S. has ‘escalation dominance’ in a debt war: Europe would face a violent market crash if it dumps Treasuries",
+      "link": "https://finance.yahoo.com/news/u-escalation-dominance-debt-war-202010395.html",
+      "source": "Yahoo Finance",
+      "category": "finance"
+    },
+    {
+      "title": "Palantir Technologies (PLTR) Stock Trades Up, Here Is Why",
+      "link": "https://finance.yahoo.com/news/palantir-technologies-pltr-stock-trades-195604516.html",
+      "source": "Yahoo Finance",
+      "category": "finance"
+    }
+  ],
+  "Yahoo_economy": [
+    {
+      "title": "Entertainment",
+      "link": "https://www.yahoo.com/entertainment/",
+      "source": "Yahoo Finance",
+      "category": "economy"
+    },
+    {
+      "title": "The Fed Is Unlikely to Make Moves Next Week, But There Could Still Be Drama",
+      "link": "https://finance.yahoo.com/news/fed-unlikely-moves-next-week-223032441.html",
+      "source": "Yahoo Finance",
+      "category": "economy"
+    },
+    {
+      "title": "Today’s Top Cash Rates, Before the Fed Decides",
+      "link": "https://finance.yahoo.com/news/today-top-cash-rates-fed-211814592.html",
+      "source": "Yahoo Finance",
+      "category": "economy"
+    },
+    {
+      "title": "Oil Climbs as Traders Weigh Renewed Iran Concerns, Cold Weather",
+      "link": "https://finance.yahoo.com/news/oil-climbs-weak-dollar-risk-062810872.html",
+      "source": "Yahoo Finance",
+      "category": "economy"
+    },
+    {
+      "title": "Crude Oil Rallies on Dollar Weakness and Heightened Geopolitical Risks",
+      "link": "https://finance.yahoo.com/news/crude-oil-rallies-dollar-weakness-201722833.html",
+      "source": "Yahoo Finance",
+      "category": "economy"
+    },
+    {
+      "title": "Bank of England admits inflation bungle",
+      "link": "https://finance.yahoo.com/news/bank-england-admits-inflation-bungle-194206222.html",
+      "source": "Yahoo Finance",
+      "category": "economy"
+    },
+    {
+      "title": "Copper Tops $13,000 as Trump’s Jabs at Fed, Allies Boost Metals",
+      "link": "https://finance.yahoo.com/news/copper-tops-13-000-trump-183002754.html",
+      "source": "Yahoo Finance",
+      "category": "economy"
+    },
+    {
+      "title": "U.S. Oil Drillers Add One Rig as Winter Weather Sets In",
+      "link": "https://finance.yahoo.com/news/u-oil-drillers-add-one-181700694.html",
+      "source": "Yahoo Finance",
+      "category": "economy"
+    }
+  ],
+  "Yahoo_tech": [
+    {
+      "title": "Entertainment",
+      "link": "https://www.yahoo.com/entertainment/",
+      "source": "Yahoo Finance",
+      "category": "tech"
+    },
+    {
+      "title": "Ethereum blockchain beats its own speed-ups, but there's a catch",
+      "link": "https://finance.yahoo.com/news/ethereum-blockchain-beats-own-speed-120956610.html",
+      "source": "Yahoo Finance",
+      "category": "tech"
+    },
+    {
+      "title": "UBS explores crypto investing for select private banking clients, Bloomberg News reports",
+      "link": "https://finance.yahoo.com/news/ubs-explores-crypto-investing-select-120829770.html",
+      "source": "Yahoo Finance",
+      "category": "tech"
+    },
+    {
+      "title": "FarEye and Amazon Key partner to tackle last mile delivery challenges",
+      "link": "https://finance.yahoo.com/news/fareye-amazon-key-partner-tackle-120000403.html",
+      "source": "Yahoo Finance",
+      "category": "tech"
+    },
+    {
+      "title": "Demis Hassabis, and how AI just might wrangle our molecular universe",
+      "link": "https://finance.yahoo.com/news/demis-hassabis-ai-just-might-113258731.html",
+      "source": "Yahoo Finance",
+      "category": "tech"
+    },
+    {
+      "title": "China Tells Alibaba, Tech Firms to Prep Nvidia H200 Orders",
+      "link": "https://finance.yahoo.com/news/china-tells-alibaba-tech-firms-113130667.html",
+      "source": "Yahoo Finance",
+      "category": "tech"
+    },
+    {
+      "title": "3 questions about Musk’s Davos appearance",
+      "link": "https://finance.yahoo.com/news/3-questions-about-musks-davos-appearance-110011674.html",
+      "source": "Yahoo Finance",
+      "category": "tech"
+    },
+    {
+      "title": "AI luminaries at Davos clash over how close human-level intelligence really is",
+      "link": "https://finance.yahoo.com/news/ai-luminaries-davos-clash-over-100921055.html",
+      "source": "Yahoo Finance",
+      "category": "tech"
+    }
+  ]
+}
